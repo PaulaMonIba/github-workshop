@@ -13,7 +13,7 @@ Recordemos que el uso de la herramienta GitHub permitirá hacer más eficiente y
 | **DAY 3**<br>Jueves (Sep 12) | 09:00 - 11:00       | Collaborative distributed version control - part 1/2<br>Day 3 intro, Concepts, Same repository, Code Review<br>Presenters: Sabry and Dhanya | [Enlace](https://coderefinery.github.io/git-collaborative/) |
 |                         | 12:00 - 13:30       | Collaborative distributed version control - part 2/2<br>Contributing to others<br>Presenters: Sabry and Dhanya | [Enlace](https://coderefinery.github.io/git-collaborative/) |
 
-## [Chat Grupal DDS (Discord)](https://discord.com/channels/1085162448211943476/1282629938368745544)
+## [Chat Grupal DDS (Discord)](https://discord.gg/SdaWhHAn)
 
 ## [Foro de Dudas (Github Discussions)](https://github.com/DeduceDS/github-workshop/discussions)
 El próximo lunes en el all hands socializaremos el listado de "dudas" recopilados a lo largo del curso y realizaremos un nuevo caso aplicado para afianzar los conocimientos. 
