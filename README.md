@@ -1,5 +1,7 @@
 # github-workshop
-Coderefinery github workshop
+Recordemos que el uso de la herramienta GitHub permitirá hacer más eficiente y organizado nuestro trabajo. 
+¡ÁNIMO! 🚀🚀🚀
+
 
 
 # Agenda
@@ -14,6 +16,7 @@ Coderefinery github workshop
 ## [Chat Grupal DDS (Discord)](https://discord.com/channels/1085162448211943476/1282629938368745544)
 
 ## [Foro de Dudas (Github Discussions)](https://github.com/DeduceDS/github-workshop/discussions)
+El próximo lunes en el all hands socializaremos el listado de "dudas" recopilados a lo largo del curso y realizaremos un nuevo caso aplicado para afianzar los conocimientos. 
 
 # Instrucciones
 ### Abrir 3 pestañas, que permita: atender la master class online, responder duas con la comunidad en línea y hacer el ejercicio en real time en tu terminal
