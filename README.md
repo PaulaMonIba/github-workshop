@@ -4,7 +4,7 @@ Recordemos que el uso de la herramienta GitHub permitirá hacer más eficiente y
 
 
 
-# Agenda
+# Agenda ([Más info...](https://coderefinery.github.io/2024-09-10-workshop/#schedule))
 | Día | Hora                | Descripción                                                                                           | Enlace                                                 |
 |-----|---------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | **DAY 1**<br>Martes (Sep 10)  | 12:00 - 13:30       | Introduction to version control with Git - part 2/4<br>Merging<br>Presenters: Radovan and Richard | [Enlace](https://coderefinery.github.io/git-intro/)     |
