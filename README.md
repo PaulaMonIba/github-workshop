@@ -24,6 +24,6 @@ El próximo lunes en el all hands socializaremos el listado de "dudas" recopilad
 ![image](https://github.com/user-attachments/assets/1f2e36f4-dde4-403b-8059-d6e44b0cf218)
 
 
-1) A web-browser to follow the [workshop lectures via Twitch](https://twitch.tv/coderefinery) (no account needed):
+1) A web-browser to follow the [workshop lectures via Twitch](https://m.twitch.tv/coderefinery) (no account needed):
 2) A second web-browser window to edit the document to [ask questions during the workshop](https://notes.coderefinery.org/workshop-2024-september):
 3) Workspace- terminal Git (opcional VS Code)
