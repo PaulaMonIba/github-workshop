@@ -12,6 +12,12 @@ Recordemos que el uso de la herramienta GitHub permitirá hacer más eficiente y
 |                         | 12:00 - 13:30       | Introduction to version control with Git - part 4/4<br>Sharing work<br>Presenters: Radovan and Bjørn | [Enlace](https://coderefinery.github.io/git-intro/)     |
 | **DAY 3**<br>Jueves (Sep 12) | 09:00 - 11:00       | Collaborative distributed version control - part 1/2<br>Day 3 intro, Concepts, Same repository, Code Review<br>Presenters: Sabry and Dhanya | [Enlace](https://coderefinery.github.io/git-collaborative/) |
 |                         | 12:00 - 13:30       | Collaborative distributed version control - part 2/2<br>Contributing to others<br>Presenters: Sabry and Dhanya | [Enlace](https://coderefinery.github.io/git-collaborative/) |
+| **DAY 4**<br>Mártes (Sep 17) | 9:00 - 11:00       | Reproducible research |
+|                         | 12:00 - 13:30       | Social coding and open software    |
+| **DAY 5**<br>Miércoles (Sep 18) | 9:00 - 11:00       | How to document your research software   |
+|                         | 12:00 - 13:30       | Jupyter notebooks    |
+| **DAY 6**<br>Jueves (Sep 19) | 09:00 - 11:00       | Automated testing|
+|                         | 12:00 - 13:30       | Modular code development |
 
 ## [Chat Grupal DDS (Discord)](https://discord.gg/SdaWhHAn)
 
